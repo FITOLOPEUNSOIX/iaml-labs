@@ -1,5 +1,10 @@
 # Introductory Applied Machine Learning (INFR10069/11152/11182)
 
+**Finance Technology and Policy students please note**:
+
+We recommend that you use [Notable](https://noteable.edina.ac.uk/) to
+run these labs. Please follow the [Notable instructions](./README-notable.md)
+
 These instructions are written for set up on DICE / a Unix environment.
 
 **Distance learners please note**:
