@@ -5,6 +5,7 @@
 1. In Learn, navigate to **Labs** and click on the **Notable** link
 2. Under **Start Personal Notebook**, click on the **Start** button
 3. At the right, click on the **+GitRepo** link:
+
    ![Image of +GitRepo link in Notable](images/notable-git.jpg)
 4. In the box entitled **Enter a Git Repository URL**, paste the
    following:
